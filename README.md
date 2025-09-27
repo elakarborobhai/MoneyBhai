@@ -1,4 +1,4 @@
-# Money Bhai — Private PWA
+# Money Bhai
 
 Money Bhai is a private, offline-first Progressive Web App designed to help users track betting sessions, manage finances, and make smarter decisions — with dignity, privacy, and control.
 
